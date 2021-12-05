@@ -3,3 +3,14 @@
 ################################################################################
 
 /CSharp10Features.StructureTypesImprovements/obj
+/CSharp10Features.RecordTypesSealToString/obj
+/CSharp10Features.RecordStruct/obj
+/CSharp10Features.RecordStruct/bin/Debug/net6.0
+/CSharp10Features.GlobalUsingDirectives/obj
+/CSharp10Features.GlobalUsingDirectives/bin/Debug/net6.0
+/CSharp10Features.FileScopedNamespaces/obj
+/CSharp10Features.ExtendedPropertyPatterns/obj
+/CSharp10Features.ConstantInterpolatedStrings/obj
+/CSharp10Features.AssAndDeclarationInSameDeconstruction/obj
+/05b_CSharp10Features.ConstantInterpolatedStrings/obj
+/.vs
